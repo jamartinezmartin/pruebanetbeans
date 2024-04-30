@@ -16,8 +16,8 @@ public class OperacionesAritmeticas {
         return a + b;
     }
     
-    public static double op4(double a, double b) {
-        return a + b;
+    public static double op4(double a, double b, double c) {
+        return a + b + c;
     }
    /**
     * @param a es el primer término de la resta
