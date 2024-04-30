@@ -15,6 +15,10 @@ public class OperacionesAritmeticas {
     public static double op1(double a, double b) {
         return a + b;
     }
+    
+    public static double op4(double a, double b) {
+        return a + b;
+    }
    /**
     * @param a es el primer término de la resta
     * @param b es el segundo término de la resta
@@ -22,5 +26,8 @@ public class OperacionesAritmeticas {
     */
     public static double op2(double a, double b) {
         return a - b;
+        
     }
+    
+    
 }
